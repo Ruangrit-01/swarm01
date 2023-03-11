@@ -2,6 +2,7 @@
 
 - [https://github.com/docker/awesome-compose/tree/master/django](https://github.com/docker/awesome-compose/tree/master/django)
 - [Special-Problems-in-ComNet'22-CPE-RMUTT](https://youtube.com/playlist?list=PLJz1XVERx6ACV-vTC6eG7HSMdBUR0dZId)
+- [https://github.com/ALEXANDERSSONN](https://github.com/ALEXANDERSSONN/swarm01/blob/main/README.md)
 - [https://github.com/nantawatCharoenrat](https://github.com/nantawatCharoenrat/swarm01/blob/master/README.md)
 
 # SWARM-DEPLOY-DJANGO-SWARM17
