@@ -105,9 +105,8 @@ networks:
     driver: overlay
     attachable: true
 ```
-- นำ docker-compose.yaml ไป Stack Deploy on local
+- นำ docker-compose.yaml ไป Stack Deploy on portainer
 
-# SWARM CLUSTER
 - สร้างไฟล์ docker-compose-RevProxy.yaml
 ```
 version: '3.7'
